@@ -1,0 +1,206 @@
+body{
+	margin: 0 auto;
+	text-align: center;
+	background-color: black;
+}
+
+
+.fon{
+	max-width: 750px;
+	margin: 0 auto;
+	background-size: 750px;
+	background-position: center;
+	margin: 0 auto;
+	border-radius: 100px;
+	border-radius: 35px;
+}
+
+
+h1,h2, h3, h4, h5, h6{
+	color: black;
+}
+.Text{
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.Guide{
+	margin: 0 auto;
+	width: 450px;
+	border-top: solid;
+	border-top-color: red;
+	border-radius: 35px;
+	border-bottom: solid;
+	border-bottom-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	background-color: #f5f5f5;
+}
+
+.logo{
+	border-radius: 50px;
+	margin-top: 5px;
+}
+
+
+.Guide_hero{
+	background-color: #f5f5f5;
+	margin: 0 auto;
+	margin-top: 15px;
+	width: 500px;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom: solid;
+	border-bottom-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-radius: 35px;
+	margin-bottom: 15px;
+}
+
+
+.Soderjanie{
+	background-color: #f5f5f5;
+	border-radius: 35px;
+	text-align: left;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom: solid;
+	border-bottom-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	margin-top: 15px;
+
+}
+
+
+
+.History{
+	background-color: #f5f5f5;
+	margin-top: 15px;
+	border-top: solid;
+	border-top-color: red;
+	color: white;
+	border-bottom: solid;
+	border-bottom-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-radius: 35px;
+}
+
+.Sposobnosti_Geroya{
+	margin: 0 auto;
+	background-color: #f5f5f5;
+	margin-top: 15px;
+	width: 250px;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom: solid;
+	border-bottom-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-radius: 35px;
+	margin-top: 15px;
+}
+
+
+.Klavisha{
+	text-align: center;
+	color: green;
+}
+
+
+
+
+
+.Stone{
+	background-color: #f5f5f5;
+	margin-top: 15px;
+	height: 300px;
+	border-width: thin;
+	border-bottom: solid;
+	border-color: red;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-radius: 35px;
+}
+
+.Stone_1{
+
+}
+
+.skills_img{
+	float: left;
+	margin-left: 35px;
+	margin-top: 10px;
+}
+
+.Enchant_Remnant{
+	background-color: #f5f5f5;
+	margin-top: 15px;
+	border-bottom: solid;
+	border-color: red;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-radius: 35px;
+}
+.Enchant_img{
+	float: left;
+	margin-left: 35px;
+	margin-top: px;
+}
+
+.First_skill{
+	background-color: #f5f5f5;
+	margin-top: 15px;
+	border-bottom: solid;
+	border-color: red;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-radius: 35px;
+}
+
+
+
+.Second_skill{
+	background-color: #f5f5f5;
+	border-bottom: solid;
+	margin-top: 15px;
+	border-color: red;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+	border-radius: 35px;
+}
+
+
+.Three_skill{
+	background-color: #f5f5f5;
+	margin-top: 15px;
+	border-bottom: solid;
+	border-color: red;
+	border-radius: 35px;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;
+}
+
+
+.Ultimate{
+	background-color: #f5f5f5;
+	margin-top: 15px;
+	border-bottom: solid;
+	border-color: red;
+	border-radius: 35px;
+	border-top: solid;
+	border-top-color: red;
+	border-bottom-width: thick;
+	border-top-width: thick;	
+}
